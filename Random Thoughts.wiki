@@ -16,3 +16,27 @@ if you are in the office, try to:
 - make sure you got 2 hours minimum before taking a break
 - you come home around isya prayer
 - make a cup of tea, and read a good book
+
+== How to make a commonplace book ==
+
+- read widely.
+- mark down: fold it, or mark the page with pen
+- take notes when you read
+- find and accumulate wisdom, not facts
+- After you finish the book, put it down for a week or so. Now, return to it and review all the material you’ve saved.
+- It doesn’t have to just be material from books. Movies, speeches, videos, conversations work too. Whatever. Anything good.
+
+- You can use anything you want, a book, evernote, etc. I use 4×6 ruled index cards, which Robert Greene introduced me to. As he figured out, being able to shuffle and move the cards into different groups is crucial to getting the most out of them.
+- For bigger projects, I organize the cards in these Cropper Hoppers. It’s meant for storing photos, but it handles index cards perfectly (especially when you use file dividers).
+
+== Weekly Plan Notes ==
+
+I’ve since abandoned BuJoPro and returned to my old creaky productivity system that consists of Black n’ Red notebooks for daily plans, printouts of plain text files for weekly plans, and a collection of emails sent to myself describing temporary plans and experimental heuristics.
+
+As it turns out, my Black n’ Red notebooks work well for daily planning because they give me two full 8.5 x 11 lie-flat spiral-bounds pages to work on each day. I tend to use most of these 187 square inches to elaborate the details of my time blocks, leave room for changes, and capture tasks and notes for future consideration.
+
+Similarly, the weekly plans I type up in plain text files require, on average, **3 – 5 single-spaced** and chaotically formatted pages. It’s not unusual for me to edit and print out significantly revised versions of this plan two or three times in a given week.
+
+----
+
+My weekly plan documents have grown to contain more than just the daily schedule sketches. They include quite a bit of narrative around projects I’m working on, summaries of habits I’m developing, reminders about values I’ve been neglecting. I’ll also sometimes move over lists of key tasks I’m working on during the task blocks that week, or summarize my most relevant temporary plans. All in all, they become pretty wild documents…

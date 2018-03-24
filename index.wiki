@@ -8,6 +8,7 @@ This is my personal and public notes. I'm hoping to grow it by the time, adding 
     * [[Quotes]]
     * [[Random Thoughts]]
     * [[Learning]]
+    * [[Poems]]
 
 
 _Github Repo_: https://github.com/jurnalanas/notebook
