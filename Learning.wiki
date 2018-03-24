@@ -1,0 +1,18 @@
+= learning =
+== Feynman Technique ==
+
+=== Step 1 ===
+
+Grab a sheet of paper and write the name of the concept at the top. You can use pretty much any concept or idea – even though the technique is named after Feynman, it’s not limited solely to math and science.
+
+=== Step 2 ===
+
+Explain the concept in your own words as if you were teaching it to someone else. Focus on using plain, simple language. Don’t limit your explanation to a simple definition or a broad overview; challenge yourself to work through an example or two as well to ensure you can put the concept into action.
+
+=== Step 3 ===
+
+Review your explanation and identify the areas where you didn’t know something or where you feel your explanation is shaky. Once you’ve pinpointed them, go back to the source material, your notes, or any examples you can find in order to shore up your understanding.
+
+=== Step 4 ===
+
+If there are any areas in your explanation where you’ve used lots of technical terms or complex language, challenge yourself to re-write these sections in simpler terms. Make sure your explanation could be understood by someone without the knowledge base you believe you already have.

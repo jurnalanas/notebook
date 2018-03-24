@@ -6,6 +6,8 @@ This is my personal and public notes. I'm hoping to grow it by the time, adding 
     * [[Random Thoughts]] : Hal-hal random yang kepikiran
     * [[Productivity]] : Catatan tentang produktivitas
     * [[Quotes]]
+    * [[Random Thoughts]]
+    * [[Learning]]
 
 
 _Github Repo_: https://github.com/jurnalanas/notebook
