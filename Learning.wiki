@@ -19,7 +19,7 @@ If there are any areas in your explanation where you’ve used lots of technical
 
 == How to Study ==
 
-source: [\[cse.buffalo.edu\]](https://www.cse.buffalo.edu//~rapaport/howtostudy.html)
+[[source]]: [\[cse.buffalo.edu\]](https://www.cse.buffalo.edu//~rapaport/howtostudy.html)
 
 -   "Studying" is not the same thing as "doing homework"!
 -   2\. Manage Your Time  [\[cse.buffalo.edu\]](https://www.cse.buffalo.edu//~rapaport/howtostudy.html)
