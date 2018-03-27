@@ -11,3 +11,4 @@ cp -a "/Users/muhammadnasrurrohman/Library/Mobile Documents/27N4MQEA55~pro~write
 git add .
 git commit -m "automatic update, see commit logs for detailed info"
 git push origin master
+git checkout gh-pages
