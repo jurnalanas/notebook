@@ -9,3 +9,25 @@
   - like one chef said, "mise en place" - Everything in its place
 4. Use the "low effort" hack
   - Recommendations: Do what's easy first﻿
+
+== Mental Models ==
+
+*The small-improvements method*  – the observation that psychologically frequently making small incremental improvements is a better approach than attempting to fix big looming problems once.
+
+[https://www.joelonsoftware.com/2002/01/06/fire-and-motion/| The just-get-started method] – Joel Spolsky’s observation that just starting to work on a small, concrete, finishable problem puts your consciousness in a productive state.
+*Corollary*: Just do something concrete. Anything. Do your laundry, or dust the counters, or add a single unit test. Just do something.
+
+[http://www.cs.virginia.edu/~robins/YouAndYourResearch.html| The top-five-problems method] – Richard Hamming’s algorithm for doing important work. Periodically ask yourself: “what are the top five most important problems in my field (and life), and why am I not working on them?”
+*Corollary*: What are the top five most important problems in your field (and life), and why aren’t you working on them?
+
+*The LRU prioritization method* – since you can only work on one problem at a time, it’s usually sufficient to pick the most important problem, work on that, and ignore everything else. This method also works with organizing most things (from email to physical possessions).
+
+[http://www.pitt.edu/~druzdzel/feynman.html| The teaching method] – Richard Feynman’s observation that teaching the basics is an excellent method for generating profound new ideas, and for putting consciousness in a productive state.
+Corollary: If you’re stuck, put yourself in a position where you have to teach someone the basics.
+
+[https://en.wikipedia.org/wiki/Planning_fallacy| Planning fallacy] – the observation that humans are overly optimistic when predicting success of their undertakings. Empirically, the average case turns out to be worse than the worst case human estimate.
+*Corollary*: Be really _pessimistic_ when estimating. Assume the average case will be slightly worse than the hypothetical worst case.
+*Corollary*: When estimating time, upgrade the units and double the estimate (e.g. convert “one week” to “two months”).
+
+[https://en.wikipedia.org/wiki/Behavior-shaping_constraint| Forcing function] – an external, usually social, constraint that increases the probability of accomplishing a set of tasks.
+*Example*: Pair programming.
